@@ -1,6 +1,6 @@
 # Project Overview
 
-🚀 <b>Molemi App</b> is a AI (Deep Learning) based plant disease recognition application that can identify upto 10 various types of plant diseases by analyzing plant leaves. The app contains following features;<br/>
+🚀 <b>CropDoc App</b> is a AI (Deep Learning) based plant disease recognition application that can identify upto 38 various types of plant diseases by analyzing plant leaves. The app contains following features;<br/>
 - User registeration<br/>
 - User authentication<br/>
 - User logout<br/>
